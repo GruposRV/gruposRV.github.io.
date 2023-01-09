@@ -1,7 +1,7 @@
-name: Meu Site
-description: Um site incrível
+name: rvsgroup
+description: fazendo testes
 baseurl: "/meu-site"
-url: "https://meu-site.com"
+url: "gruposrv.github.io"
 
 # Configurações de build
 markdown: kramdown
